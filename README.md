@@ -22,7 +22,7 @@
 
 ### 关于作品
 
-- 在你了解注意力的宝贵后，也许你尝试改变并发现了 [**https://m.baidu.com/?tn=simple**](https://m.baidu.com/?tn=simple)，遗憾其弃我而去。
+- 在你了解注意力的宝贵后，也许你尝试改变并发现了 [**https://m.baidu.com/?tn=simple**](https://m.baidu.com/?tn=simple)，遗憾其弃我们而去。
 - 也许你不知道我在说什么，但我相信你一定会喜欢这个作品，不要吐槽其实现之简单，它确能节省你的时间。
 
 
