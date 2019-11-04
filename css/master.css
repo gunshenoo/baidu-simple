@@ -1,0 +1,43 @@
+body,
+html {
+  height: 100%;
+  font-family: system-ui;
+}
+
+div.logo {
+  padding-bottom: 10px;
+}
+
+img.logo {
+  width: 100%;
+  max-width: 350px;
+}
+
+.container .row {
+  /* LOGO */
+  margin-top: -50px;
+}
+
+#keyword {
+  color: black;
+  border-radius: 0px;
+  border-color: #3385ff;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+#search {
+  padding: 5px 15px;
+  color: white;
+  background: #3385ff;
+  border-color: #3385ff;
+  border-radius: 0px;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+#search:hover {
+  background: #317ef3;
+  border-bottom: 1px solid #2868c8;
+  box-shadow: 1px 1px 1px #ccc;
+}
