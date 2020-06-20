@@ -37,7 +37,7 @@
 
 - 你可以放到自己的服务器上，添加子域名指向根目录。
 
-  比如我的：[**baidu.23-6.site**](https://baidu.23-6.site/)
+  比如我的：[**baidu.inochi.icu**](https://baidu.inochi.icu)
 
   **请尽量减少访问我的服务器，请尽量使用您的服务器。**
 
